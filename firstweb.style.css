@@ -7,6 +7,9 @@
     font-family: 'Gloria Hallelujah',
         cursive;
     text-shadow: .5px .5px #ffffff;
+    width:50%;
+    text-align: center;
+    display: inline-block;
 }
 
 /* this is where notes will go */
