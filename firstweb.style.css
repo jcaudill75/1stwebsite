@@ -1,0 +1,180 @@
+.header {
+    color: #1f1f1f;
+    text-align: center;
+
+    font-size: 40px;
+    font-style: italic;
+    font-family: 'Gloria Hallelujah',
+        cursive;
+    text-shadow: .5px .5px #ffffff;
+}
+
+/* this is where notes will go */
+.subhead {
+    color: #1f1f1f;
+    text-align: center;
+
+    font-size: 25px;
+    font-style: italic;
+    font-family: 'Gloria Hallelujah',
+        cursive;
+    text-shadow: .5px .5px #ffffff;
+}
+
+body {
+    background-color: #515150;
+    color: #fcf1e3;
+    margin: 0%;
+}
+
+.interests {
+    font-family: 'Gloria Hallelujah',
+        cursive;
+}
+
+.lightbulbs {
+    display: block;
+    margin: 100px auto 100px auto;
+    width: 60%;
+    border-width: 7px;
+    border-color: #ffffff;
+    border-style: solid;
+}
+
+
+hr {
+    background-color: #2c180f;
+    border-style: none;
+    height: 3px;
+    width: 25%;
+}
+
+p {
+    width: 75%;
+    text-align: left;
+    font-family: 'Indie Flower',
+        cursive;
+    font-weight: bold;
+    margin: auto;
+
+
+}
+
+.GC {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.page2 {
+
+    color: #fcf1e3;
+    padding: none;
+
+
+}
+
+.interests {
+    margin: 200px 0px 100px 100px;
+
+}
+
+.First {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.volvo {
+    float: left;
+    margin-right: 30px;
+}
+
+
+.second {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.pentax {
+    float: right;
+    margin-left: 30px;
+}
+
+.third {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.massage {
+
+    float: left;
+    margin-right: 30px;
+}
+
+
+.fourth {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.rottie {
+
+    float: right;
+    margin-left: 30px;
+
+}
+
+
+.fifth {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.motorcycle {
+    float: left;
+    margin-right: 30px;
+}
+
+
+.sixth {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.gym {
+    float: right;
+    margin-left: 30px;
+
+}
+
+.seventh {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.cow {
+    float: left;
+    margin-right: 30px;
+}
+
+.footer {
+    background-color: #2c180f;
+    height: 100px;
+
+}
+
+.mork {
+    margin:auto;
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    font-family: 'Gloria Hallelujah',
+        cursive;
+}
